@@ -1,0 +1,58 @@
+{
+  "primary_attack":
+  {
+    "type": "MELEE",
+    "cooldown": 0.8,
+    "health": 10,
+    "damage": 8,
+    "trajectory":
+    {
+      "frame_time_ms": 500,
+      "default_time_ms_fraction": 0.2,
+      "frames": [
+        {
+          "size": [0, 0],
+          "offset_center": [0, 0],
+          "time_ms_fraction": 0.4
+        },
+        {
+          "size": [35, 50],
+          "offset_center": [12, 0]
+        },
+        {
+          "size": [40, 20],
+          "offset_center": [-5, -30]
+        }
+      ]
+    }
+  },
+  "secondary_attack":
+  {
+    "type": "MELEE",
+    "cooldown": 1.2,
+    "health": 30,
+    "damage": 14,
+    "trajectory":
+    {
+      "frame_time_ms": 800,
+      "default_time_ms_fraction": 0.1,
+      "frames": [
+        {
+          "size": [0, 0],
+          "offset_center": [0, 0],
+          "time_ms_fraction": 0.5
+        },
+        {
+          "size": [90, 15],
+          "offset_center": [-10, -45],
+            "time_ms_fraction": 0.2
+        },
+        {
+          "size": [40, 60],
+          "offset_center": [30, -5],
+          "time_ms_fraction": 0.20
+        }
+      ]
+    }
+  }
+}

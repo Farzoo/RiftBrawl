@@ -1,0 +1,2 @@
+class FriendObject:
+    pass

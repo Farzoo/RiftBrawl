@@ -1,0 +1,28 @@
+{
+  "textures": [
+    {
+      "name": "background_level_1",
+      "path": "assets/textures/backgrounds/background_no_floor.png",
+      "size": [3836, 1080],
+      "scale": 0.75
+    },
+    {
+      "name": "floor",
+      "path": "assets/textures/backgrounds/floor.png",
+      "size": [449, 78],
+      "scale": 0.5
+    },
+    {
+      "name": "sky",
+      "path": "assets/textures/backgrounds/sky.png",
+      "size": [128, 128],
+      "scale": 0.5
+    },
+    {
+      "name": "tree",
+      "path": "assets/textures/backgrounds/tree.png",
+      "size": [1128, 1036],
+      "scale": 0.5
+    }
+  ]
+}

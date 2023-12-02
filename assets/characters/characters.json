@@ -1,0 +1,33 @@
+{
+  "characters": [
+    {
+      "name": "MartialHero",
+      "folder_relative_path": "./martial_hero",
+      "icon_scale": 5,
+      "scale": 3
+    },
+    {
+      "name": "Huntress",
+      "folder_relative_path": "./huntress",
+      "icon_scale": 6,
+      "scale": 3.5
+    },
+    {
+      "name": "Silvera",
+      "folder_relative_path": "./silvera",
+      "icon_scale": 6,
+      "scale": 2.7
+    },
+    {
+      "name": "EvilWizard",
+      "folder_relative_path": "./evil_wizard",
+      "icon_scale": 6,
+      "scale": 2.7
+    },
+    {
+      "name": "Wizard",
+      "folder_relative_path": "./wizard",
+      "scale": 1.8
+    }
+  ]
+}

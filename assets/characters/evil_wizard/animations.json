@@ -1,0 +1,38 @@
+{
+  "offset_center": [10, 0],
+  "size": [250, 250],
+  "animations": {
+    "IDLE": {
+      "file": "Idle.png",
+      "animation_total_time_ms": 1200
+    },
+    "RUNNING": {
+      "file": "Run.png",
+      "animation_total_time_ms": 1000
+    },
+    "JUMPING": {
+      "file": "Jump.png",
+      "animation_total_time_ms": 300
+    },
+    "FALLING": {
+      "file": "Fall.png",
+      "animation_total_time_ms": 300
+    },
+    "PRIMARY_ATTACK": {
+      "file": "Attack1.png",
+      "animation_total_time_ms": 1000
+    },
+    "SECONDARY_ATTACK": {
+      "file": "Attack2.png",
+      "animation_total_time_ms": 1500
+    },
+    "HURT": {
+      "file": "Take hit.png",
+      "animation_total_time_ms": 300
+    },
+    "DEATH": {
+      "file": "Death.png",
+      "animation_total_time_ms": 2500
+    }
+  }
+}

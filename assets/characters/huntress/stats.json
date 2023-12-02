@@ -1,0 +1,6 @@
+{
+  "hitbox_size": [15, 40],
+  "health": 90,
+  "speed": 1000,
+  "jump_force": 250
+}
