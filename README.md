@@ -1,3 +1,14 @@
+<div style="display: flex;">
+    <div style="text-align: center;">
+        <img src="https://github.com/Farzoo.png" width="60px"/><br/>
+        <sub><a href="https://github.com/Farzoo">Farzoo</a></sub>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://github.com/SebastienYWN.png" width="60px"/><br/>
+        <sub><a href="https://github.com/SebastienYWN">SebastienYWN</a></sub>
+    </div>
+</div>
+
 # RiftBrawl
 
 RiftBrawl est un jeu de combat compétitif où deux joueurs s'affrontent dans un combat sans fin. En utilisant des capacités uniques à chaque personnage, chaque joueur tente de vaincre son adversaire.
